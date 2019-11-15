@@ -1,7 +1,7 @@
 	// Start function
 const start = async function() {
 	const requestOptions = {
-      // Filter on devices with the Arduino USB vendor ID.
+      // Filter on devices with the vendor ID.
       //filters: [{ vendorId: 0x2341 }],
     };
 
